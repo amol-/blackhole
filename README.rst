@@ -7,6 +7,6 @@ Performing static code analysis usually requires running an external tool onto t
 
 So I started to experiment with using Inspection and Python Bytecode as a representation of the original codebase such that it was possible to analyse functions and their usage from within testsuite itself and enforce bestpractices also on dynamic code.
 
-**shelvedb.py**
+**pythonshow3**
 
-Minimal lines of code to build a key-value DB in Python with only standard library.
+Some Python snippets for the PythonShow Episode 3
